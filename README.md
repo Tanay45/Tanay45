@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tanay Chatterjee and I'm a Web Developer from Bilaspur, Chhattisgarh</h2>
+<h2 align="left">Hey 👋! Tanay Chatterjee | Computer Science Engineering graduate | React.js & JavaScript Developer | Building responsive web & AI-powered projects 🚀</h2>
 
 ###
 
